@@ -2,7 +2,7 @@
 NBsPocket is a nanobody pocket database and screening &amp; analysis platform for hapten-specific nanobodies.
 
 <p align="center">
-    <img align="center" src="https://github.com/jourmore/NBsPocket/blob/main/TOC.png" width="500" alt="logo"/>
+    <img align="center" src="https://github.com/jourmore/NBsPocket/blob/main/TOC.png" width="900" alt="logo"/>
 </p>
 
 
